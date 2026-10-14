@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **CAAM** (**Computational and Applied Mathematics**) student at the University of Chicago, double majoring in either CS or Economics
+I'm a **Computational & Applied Mathematics**  **(CAAM)** student at the University of Chicago, double majoring in either CS or Economics
 
 ## Tech Stack
 * **Languages:** Python, Java
